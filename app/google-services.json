@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1089443127780",
+    "firebase_url": "https://blume-sunzi2598.firebaseio.com",
+    "project_id": "blume-sunzi2598",
+    "storage_bucket": "blume-sunzi2598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089443127780:android:b11cc11a0f9ae426f0e7f1",
+        "android_client_info": {
+          "package_name": "com.company.blume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089443127780-b2posls67821fk820cepfgs5k1juattf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVQxzAM3Akg7rscrMWTLLey3_Fh4zEGqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089443127780-b2posls67821fk820cepfgs5k1juattf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
